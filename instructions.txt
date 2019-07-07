@@ -1,0 +1,19 @@
+# Dhivakar-Sample-News-App-Test
+
+Instructions To Run On Android :
+
+1.Clone the repository to a local folder.
+2.Make sure you have installed node.js, java, java sdk and android studio
+3.run npm install inside your local repository.
+4.run react-native link to link dependencies like react-native-vector-icons and react-native-gesture-handler
+5.start your metro bundler with react-native start
+6.run the application in AVD with react-native run-android
+
+Instructions To Run On IOS :
+
+1.Clone the repository to a local folder.
+2.Make sure you have installed node.js and XCode
+3.run npm install inside your local repository.
+4.run react-native link to link dependencies like react-native-vector-icons and react-native-gesture-handler
+5.start your metro bundler with react-native start
+6.run the application in AVD with react-native run-ios
