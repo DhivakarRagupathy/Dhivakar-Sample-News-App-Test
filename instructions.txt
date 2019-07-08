@@ -17,3 +17,7 @@ Instructions To Run On IOS :
 4.run react-native link to link dependencies like react-native-vector-icons and react-native-gesture-handler
 5.start your metro bundler with react-native start
 6.run the application in AVD with react-native run-ios
+
+
+UserName : Hiver
+Password : Go
